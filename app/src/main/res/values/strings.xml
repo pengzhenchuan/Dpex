@@ -20,6 +20,6 @@
     <string name="title_activity_guide">GuideActivity</string>
     <string name="title_activity_register">RegisterActivity</string>
     <string name="title_activity_main">MainActivity</string>
-
+    <string name="s_copyright">Depx版权所有@PENGZHENCHUAN</string>
 
 </resources>
